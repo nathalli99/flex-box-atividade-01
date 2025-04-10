@@ -35,14 +35,19 @@ h1 {
 
 .cor1 {
     background-color: #ED145B;
+    align-self: flex-start;
+
 }
 
 .cor2 {
     background-color: #63B1BC;
+    align-self: flex-end;
+    order: 1;
 }
 
 .cor3 {
     background-color: #EFB661;
+    align-self: center;
 }
 
 .instrucoes {
